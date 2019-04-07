@@ -7,6 +7,7 @@ View 3D Models in exploded view using gestures
 - Easy to use Scripts
 - Modular Script for indivisual part
 - `Pinch Zoom` to explode/combine the model
+- `Double Tap` to select an indivisual part
 - `Press Back` to reset and go to loading scene
 
 ### Exploded Cube
