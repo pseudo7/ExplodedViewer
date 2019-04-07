@@ -17,7 +17,7 @@ public class ExplosionPiece : MonoBehaviour
     {
         Piece = transform;
         StartPoint = transform.position;
-        EndPoint = referOrigin ? transform.position.normalized * distance : transform.GetChild(0).position;
+        EndPoint = referOrigin ? transform.localPosition.normalized * distance : transform.GetChild(0).position;
     }
 
     private void OnMouseUpAsButton()

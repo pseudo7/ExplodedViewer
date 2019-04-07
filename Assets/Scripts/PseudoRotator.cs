@@ -8,7 +8,7 @@ public class PseudoRotator : MonoBehaviour
 
     public float dampening = 10;
 
-    private void Start()
+    void Start()
     {
         target = transform;
     }

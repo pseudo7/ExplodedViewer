@@ -48,16 +48,24 @@ public class ExplosionCamera : MonoBehaviour
 
     IEnumerator MoveCamera(Vector3 targetPosition)
     {
-        transform.rotation = Quaternion.identity;
-
         isMoving = true;
+
+        Debug.Log(transform.eulerAngles);
+
+        while (transform.eulerAngles.sqrMagnitude > 10)
+        {
+            transform.rotation = Quaternion.RotateTowards(transform.rotation, Quaternion.identity, 1);
+            yield return new WaitForEndOfFrame();
+        }
+
+        transform.rotation = Quaternion.identity;
 
         while (transform.position != targetPosition)
         {
             transform.position = Vector3.MoveTowards(transform.position, targetPosition, MOVE_STEP);
             yield return new WaitForEndOfFrame();
         }
-        
+
         PseudoRotator.target = targetPosition == origPosition ? ExplosionManager.Instance.explosionParent : transform;
         hasMoved = targetPosition != origPosition;
 

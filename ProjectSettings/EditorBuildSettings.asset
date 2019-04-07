@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/_Scenes/LoadingScene.unity
+    guid: f6ebf05cf6577cf40ae3eef0df60cbd5
+  - enabled: 1
+    path: Assets/_Scenes/Exploded Cube.unity
+    guid: c8163029d19b0de47ba1e73f7a732e1d
+  - enabled: 1
+    path: Assets/_Scenes/Exploded Engine.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Scenes/Exploded Lattice.unity
+    guid: 5a7d74cb6a6e1194ebb80aeccd60f942
   m_configObjects: {}

@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 27c73b310baac2b45bad297efc7f71b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' 1'
+    100002: ' 10'
+    100004: ' 100'
+    100006: ' 101'
+    100008: ' 102'
+    100010: ' 103'
+    100012: ' 104'
+    100014: ' 105'
+    100016: ' 106'
+    100018: ' 107'
+    100020: ' 108'
+    100022: ' 109'
+    100024: ' 11'
+    100026: ' 110'
+    100028: ' 111'
+    100030: ' 112'
+    100032: ' 113'
+    100034: ' 114'
+    100036: ' 115'
+    100038: ' 116'
+    100040: ' 117'
+    100042: ' 118'
+    100044: ' 119'
+    100046: ' 12'
+    100048: ' 120'
+    100050: ' 121'
+    100052: ' 122'
+    100054: ' 123'
+    100056: ' 124'
+    100058: ' 125'
+    100060: ' 126'
+    100062: ' 127'
+    100064: ' 128'
+    100066: ' 129'
+    100068: ' 13'
+    100070: ' 130'
+    100072: ' 131'
+    100074: ' 132'
+    100076: ' 133'
+    100078: ' 134'
+    100080: ' 135'
+    100082: ' 136'
+    100084: ' 137'
+    100086: ' 138'
+    100088: ' 139'
+    100090: ' 14'
+    100092: ' 140'
+    100094: ' 141'
+    100096: ' 15'
+    100098: ' 16'
+    100100: ' 17'
+    100102: ' 18'
+    100104: ' 19'
+    100106: ' 2'
+    100108: ' 20'
+    100110: ' 21'
+    100112: ' 22'
+    100114: ' 23'
+    100116: ' 24'
+    100118: ' 25'
+    100120: ' 26'
+    100122: ' 27'
+    100124: ' 28'
+    100126: ' 29'
+    100128: ' 3'
+    100130: ' 30'
+    100132: ' 31'
+    100134: ' 32'
+    100136: ' 33'
+    100138: ' 34'
+    100140: ' 35'
+    100142: ' 36'
+    100144: ' 37'
+    100146: ' 38'
+    100148: ' 39'
+    100150: ' 4'
+    100152: ' 40'
+    100154: ' 41'
+    100156: ' 42'
+    100158: ' 43'
+    100160: ' 44'
+    100162: ' 45'
+    100164: ' 46'
+    100166: ' 47'
+    100168: ' 48'
+    100170: ' 49'
+    100172: ' 5'
+    100174: ' 50'
+    100176: ' 51'
+    100178: ' 52'
+    100180: ' 53'
+    100182: ' 54'
+    100184: ' 55'
+    100186: ' 56'
+    100188: ' 57'
+    100190: ' 58'
+    100192: ' 59'
+    100194: ' 6'
+    100196: ' 60'
+    100198: ' 61'
+    100200: ' 62'
+    100202: ' 63'
+    100204: ' 64'
+    100206: ' 65'
+    100208: ' 66'
+    100210: ' 67'
+    100212: ' 68'
+    100214: ' 69'
+    100216: ' 7'
+    100218: ' 70'
+    100220: ' 71'
+    100222: ' 72'
+    100224: ' 73'
+    100226: ' 74'
+    100228: ' 75'
+    100230: ' 76'
+    100232: ' 77'
+    100234: ' 78'
+    100236: ' 79'
+    100238: ' 8'
+    100240: ' 80'
+    100242: ' 81'
+    100244: ' 82'
+    100246: ' 83'
+    100248: ' 84'
+    100250: ' 85'
+    100252: ' 86'
+    100254: ' 87'
+    100256: ' 88'
+    100258: ' 89'
+    100260: ' 9'
+    100262: ' 90'
+    100264: ' 91'
+    100266: ' 92'
+    100268: ' 93'
+    100270: ' 94'
+    100272: ' 95'
+    100274: ' 96'
+    100276: ' 97'
+    100278: ' 98'
+    100280: ' 99'
+    100282: //RootNode
+    100284: kappa_engine_cord2
+    100286: kappa_engine_cord4
+    100288: kappa_engine_fixer
+    100290: kappa_engine_fixer 1
+    100292: kappa_engine_fixer1
+    100294: kappa_engine_fixer10
+    100296: kappa_engine_fixer100
+    100298: kappa_engine_fixer101
+    100300: kappa_engine_fixer102
+    100302: kappa_engine_fixer103
+    100304: kappa_engine_fixer104
+    100306: kappa_engine_fixer105
+    100308: kappa_engine_fixer106
+    100310: kappa_engine_fixer107
+    100312: kappa_engine_fixer108
+    100314: kappa_engine_fixer109
+    100316: kappa_engine_fixer11
+    100318: kappa_engine_fixer110
+    100320: kappa_engine_fixer111
+    100322: kappa_engine_fixer112
+    100324: kappa_engine_fixer113
+    100326: kappa_engine_fixer114
+    100328: kappa_engine_fixer115
+    100330: kappa_engine_fixer116
+    100332: kappa_engine_fixer117
+    100334: kappa_engine_fixer119
+    100336: kappa_engine_fixer12
+    100338: kappa_engine_fixer120
+    100340: kappa_engine_fixer121
+    100342: kappa_engine_fixer122
+    100344: kappa_engine_fixer123
+    100346: kappa_engine_fixer124
+    100348: kappa_engine_fixer124 1
+    100350: kappa_engine_fixer125
+    100352: kappa_engine_fixer126
+    100354: kappa_engine_fixer13
+    100356: kappa_engine_fixer14
+    100358: kappa_engine_fixer15
+    100360: kappa_engine_fixer16
+    100362: kappa_engine_fixer17
+    100364: kappa_engine_fixer18
+    100366: kappa_engine_fixer19
+    100368: kappa_engine_fixer2
+    100370: kappa_engine_fixer20
+    100372: kappa_engine_fixer21
+    100374: kappa_engine_fixer22
+    100376: kappa_engine_fixer23
+    100378: kappa_engine_fixer24
+    100380: kappa_engine_fixer25
+    100382: kappa_engine_fixer26
+    100384: kappa_engine_fixer27
+    100386: kappa_engine_fixer28
+    100388: kappa_engine_fixer29
+    100390: kappa_engine_fixer3
+    100392: kappa_engine_fixer30
+    100394: kappa_engine_fixer31
+    100396: kappa_engine_fixer32
+    100398: kappa_engine_fixer33
+    100400: kappa_engine_fixer34
+    100402: kappa_engine_fixer35
+    100404: kappa_engine_fixer36
+    100406: kappa_engine_fixer37
+    100408: kappa_engine_fixer38
+    100410: kappa_engine_fixer39
+    100412: kappa_engine_fixer4
+    100414: kappa_engine_fixer40
+    100416: kappa_engine_fixer41
+    100418: kappa_engine_fixer43
+    100420: kappa_engine_fixer44
+    100422: kappa_engine_fixer45
+    100424: kappa_engine_fixer46
+    100426: kappa_engine_fixer47
+    100428: kappa_engine_fixer48
+    100430: kappa_engine_fixer49
+    100432: kappa_engine_fixer5
+    100434: kappa_engine_fixer50
+    100436: kappa_engine_fixer51
+    100438: kappa_engine_fixer55
+    100440: kappa_engine_fixer56
+    100442: kappa_engine_fixer57
+    100444: kappa_engine_fixer58
+    100446: kappa_engine_fixer59
+    100448: kappa_engine_fixer6
+    100450: kappa_engine_fixer60
+    100452: kappa_engine_fixer61
+    100454: kappa_engine_fixer62
+    100456: kappa_engine_fixer63
+    100458: kappa_engine_fixer64
+    100460: kappa_engine_fixer65
+    100462: kappa_engine_fixer66
+    100464: kappa_engine_fixer67
+    100466: kappa_engine_fixer68
+    100468: kappa_engine_fixer69
+    100470: kappa_engine_fixer7
+    100472: kappa_engine_fixer70
+    100474: kappa_engine_fixer71
+    100476: kappa_engine_fixer72
+    100478: kappa_engine_fixer73
+    100480: kappa_engine_fixer74
+    100482: kappa_engine_fixer76
+    100484: kappa_engine_fixer77
+    100486: kappa_engine_fixer78
+    100488: kappa_engine_fixer79
+    100490: kappa_engine_fixer8
+    100492: kappa_engine_fixer80
+    100494: kappa_engine_fixer81
+    100496: kappa_engine_fixer82
+    100498: kappa_engine_fixer83
+    100500: kappa_engine_fixer84
+    100502: kappa_engine_fixer85
+    100504: kappa_engine_fixer86
+    100506: kappa_engine_fixer87
+    100508: kappa_engine_fixer88
+    100510: kappa_engine_fixer89
+    100512: kappa_engine_fixer9
+    100514: kappa_engine_fixer90
+    100516: kappa_engine_fixer91
+    100518: kappa_engine_fixer92
+    100520: kappa_engine_fixer93
+    100522: kappa_engine_fixer94
+    100524: kappa_engine_fixer95
+    100526: kappa_engine_fixer96
+    100528: kappa_engine_fixer97
+    100530: kappa_engine_fixer98
+    100532: kappa_engine_fixer99
+    100534: kappa_engine_pipe
+    100536: kappa_engine_pipe1
+    100538: kappa_engine_pipe12
+    100540: kappa_engine_pipe13
+    100542: kappa_engine_pipe14
+    100544: kappa_engine_pipe15
+    100546: kappa_engine_pipe2
+    100548: kappa_engine_pipe20
+    100550: kappa_engine_pipe3
+    100552: kappa_engine_pipe4
+    100554: kappa_engine_pipe5
+    100556: kappa_engine_pipe6
+    100558: kappa_engine_pipe7
+    100560: kappa_engine_pipe7 1
+    100562: kappa_engine_pipe8
+    100564: kappa_engine_rmotor2
+    400000: ' 1'
+    400002: ' 10'
+    400004: ' 100'
+    400006: ' 101'
+    400008: ' 102'
+    400010: ' 103'
+    400012: ' 104'
+    400014: ' 105'
+    400016: ' 106'
+    400018: ' 107'
+    400020: ' 108'
+    400022: ' 109'
+    400024: ' 11'
+    400026: ' 110'
+    400028: ' 111'
+    400030: ' 112'
+    400032: ' 113'
+    400034: ' 114'
+    400036: ' 115'
+    400038: ' 116'
+    400040: ' 117'
+    400042: ' 118'
+    400044: ' 119'
+    400046: ' 12'
+    400048: ' 120'
+    400050: ' 121'
+    400052: ' 122'
+    400054: ' 123'
+    400056: ' 124'
+    400058: ' 125'
+    400060: ' 126'
+    400062: ' 127'
+    400064: ' 128'
+    400066: ' 129'
+    400068: ' 13'
+    400070: ' 130'
+    400072: ' 131'
+    400074: ' 132'
+    400076: ' 133'
+    400078: ' 134'
+    400080: ' 135'
+    400082: ' 136'
+    400084: ' 137'
+    400086: ' 138'
+    400088: ' 139'
+    400090: ' 14'
+    400092: ' 140'
+    400094: ' 141'
+    400096: ' 15'
+    400098: ' 16'
+    400100: ' 17'
+    400102: ' 18'
+    400104: ' 19'
+    400106: ' 2'
+    400108: ' 20'
+    400110: ' 21'
+    400112: ' 22'
+    400114: ' 23'
+    400116: ' 24'
+    400118: ' 25'
+    400120: ' 26'
+    400122: ' 27'
+    400124: ' 28'
+    400126: ' 29'
+    400128: ' 3'
+    400130: ' 30'
+    400132: ' 31'
+    400134: ' 32'
+    400136: ' 33'
+    400138: ' 34'
+    400140: ' 35'
+    400142: ' 36'
+    400144: ' 37'
+    400146: ' 38'
+    400148: ' 39'
+    400150: ' 4'
+    400152: ' 40'
+    400154: ' 41'
+    400156: ' 42'
+    400158: ' 43'
+    400160: ' 44'
+    400162: ' 45'
+    400164: ' 46'
+    400166: ' 47'
+    400168: ' 48'
+    400170: ' 49'
+    400172: ' 5'
+    400174: ' 50'
+    400176: ' 51'
+    400178: ' 52'
+    400180: ' 53'
+    400182: ' 54'
+    400184: ' 55'
+    400186: ' 56'
+    400188: ' 57'
+    400190: ' 58'
+    400192: ' 59'
+    400194: ' 6'
+    400196: ' 60'
+    400198: ' 61'
+    400200: ' 62'
+    400202: ' 63'
+    400204: ' 64'
+    400206: ' 65'
+    400208: ' 66'
+    400210: ' 67'
+    400212: ' 68'
+    400214: ' 69'
+    400216: ' 7'
+    400218: ' 70'
+    400220: ' 71'
+    400222: ' 72'
+    400224: ' 73'
+    400226: ' 74'
+    400228: ' 75'
+    400230: ' 76'
+    400232: ' 77'
+    400234: ' 78'
+    400236: ' 79'
+    400238: ' 8'
+    400240: ' 80'
+    400242: ' 81'
+    400244: ' 82'
+    400246: ' 83'
+    400248: ' 84'
+    400250: ' 85'
+    400252: ' 86'
+    400254: ' 87'
+    400256: ' 88'
+    400258: ' 89'
+    400260: ' 9'
+    400262: ' 90'
+    400264: ' 91'
+    400266: ' 92'
+    400268: ' 93'
+    400270: ' 94'
+    400272: ' 95'
+    400274: ' 96'
+    400276: ' 97'
+    400278: ' 98'
+    400280: ' 99'
+    400282: //RootNode
+    400284: kappa_engine_cord2
+    400286: kappa_engine_cord4
+    400288: kappa_engine_fixer
+    400290: kappa_engine_fixer 1
+    400292: kappa_engine_fixer1
+    400294: kappa_engine_fixer10
+    400296: kappa_engine_fixer100
+    400298: kappa_engine_fixer101
+    400300: kappa_engine_fixer102
+    400302: kappa_engine_fixer103
+    400304: kappa_engine_fixer104
+    400306: kappa_engine_fixer105
+    400308: kappa_engine_fixer106
+    400310: kappa_engine_fixer107
+    400312: kappa_engine_fixer108
+    400314: kappa_engine_fixer109
+    400316: kappa_engine_fixer11
+    400318: kappa_engine_fixer110
+    400320: kappa_engine_fixer111
+    400322: kappa_engine_fixer112
+    400324: kappa_engine_fixer113
+    400326: kappa_engine_fixer114
+    400328: kappa_engine_fixer115
+    400330: kappa_engine_fixer116
+    400332: kappa_engine_fixer117
+    400334: kappa_engine_fixer119
+    400336: kappa_engine_fixer12
+    400338: kappa_engine_fixer120
+    400340: kappa_engine_fixer121
+    400342: kappa_engine_fixer122
+    400344: kappa_engine_fixer123
+    400346: kappa_engine_fixer124
+    400348: kappa_engine_fixer124 1
+    400350: kappa_engine_fixer125
+    400352: kappa_engine_fixer126
+    400354: kappa_engine_fixer13
+    400356: kappa_engine_fixer14
+    400358: kappa_engine_fixer15
+    400360: kappa_engine_fixer16
+    400362: kappa_engine_fixer17
+    400364: kappa_engine_fixer18
+    400366: kappa_engine_fixer19
+    400368: kappa_engine_fixer2
+    400370: kappa_engine_fixer20
+    400372: kappa_engine_fixer21
+    400374: kappa_engine_fixer22
+    400376: kappa_engine_fixer23
+    400378: kappa_engine_fixer24
+    400380: kappa_engine_fixer25
+    400382: kappa_engine_fixer26
+    400384: kappa_engine_fixer27
+    400386: kappa_engine_fixer28
+    400388: kappa_engine_fixer29
+    400390: kappa_engine_fixer3
+    400392: kappa_engine_fixer30
+    400394: kappa_engine_fixer31
+    400396: kappa_engine_fixer32
+    400398: kappa_engine_fixer33
+    400400: kappa_engine_fixer34
+    400402: kappa_engine_fixer35
+    400404: kappa_engine_fixer36
+    400406: kappa_engine_fixer37
+    400408: kappa_engine_fixer38
+    400410: kappa_engine_fixer39
+    400412: kappa_engine_fixer4
+    400414: kappa_engine_fixer40
+    400416: kappa_engine_fixer41
+    400418: kappa_engine_fixer43
+    400420: kappa_engine_fixer44
+    400422: kappa_engine_fixer45
+    400424: kappa_engine_fixer46
+    400426: kappa_engine_fixer47
+    400428: kappa_engine_fixer48
+    400430: kappa_engine_fixer49
+    400432: kappa_engine_fixer5
+    400434: kappa_engine_fixer50
+    400436: kappa_engine_fixer51
+    400438: kappa_engine_fixer55
+    400440: kappa_engine_fixer56
+    400442: kappa_engine_fixer57
+    400444: kappa_engine_fixer58
+    400446: kappa_engine_fixer59
+    400448: kappa_engine_fixer6
+    400450: kappa_engine_fixer60
+    400452: kappa_engine_fixer61
+    400454: kappa_engine_fixer62
+    400456: kappa_engine_fixer63
+    400458: kappa_engine_fixer64
+    400460: kappa_engine_fixer65
+    400462: kappa_engine_fixer66
+    400464: kappa_engine_fixer67
+    400466: kappa_engine_fixer68
+    400468: kappa_engine_fixer69
+    400470: kappa_engine_fixer7
+    400472: kappa_engine_fixer70
+    400474: kappa_engine_fixer71
+    400476: kappa_engine_fixer72
+    400478: kappa_engine_fixer73
+    400480: kappa_engine_fixer74
+    400482: kappa_engine_fixer76
+    400484: kappa_engine_fixer77
+    400486: kappa_engine_fixer78
+    400488: kappa_engine_fixer79
+    400490: kappa_engine_fixer8
+    400492: kappa_engine_fixer80
+    400494: kappa_engine_fixer81
+    400496: kappa_engine_fixer82
+    400498: kappa_engine_fixer83
+    400500: kappa_engine_fixer84
+    400502: kappa_engine_fixer85
+    400504: kappa_engine_fixer86
+    400506: kappa_engine_fixer87
+    400508: kappa_engine_fixer88
+    400510: kappa_engine_fixer89
+    400512: kappa_engine_fixer9
+    400514: kappa_engine_fixer90
+    400516: kappa_engine_fixer91
+    400518: kappa_engine_fixer92
+    400520: kappa_engine_fixer93
+    400522: kappa_engine_fixer94
+    400524: kappa_engine_fixer95
+    400526: kappa_engine_fixer96
+    400528: kappa_engine_fixer97
+    400530: kappa_engine_fixer98
+    400532: kappa_engine_fixer99
+    400534: kappa_engine_pipe
+    400536: kappa_engine_pipe1
+    400538: kappa_engine_pipe12
+    400540: kappa_engine_pipe13
+    400542: kappa_engine_pipe14
+    400544: kappa_engine_pipe15
+    400546: kappa_engine_pipe2
+    400548: kappa_engine_pipe20
+    400550: kappa_engine_pipe3
+    400552: kappa_engine_pipe4
+    400554: kappa_engine_pipe5
+    400556: kappa_engine_pipe6
+    400558: kappa_engine_pipe7
+    400560: kappa_engine_pipe7 1
+    400562: kappa_engine_pipe8
+    400564: kappa_engine_rmotor2
+    2100000: kappa_engine_metal_silver
+    2100002: kappa_engine_metal_black
+    2100004: kappa_engine_plastic_black
+    2100006: kappa_engine_yellow_metal
+    2100008: kappa_engine_metal_red
+    2100010: kappa_engine_metal_blue
+    2100012: kappa_engine_net
+    2300000: ' 1'
+    2300002: ' 10'
+    2300004: ' 100'
+    2300006: ' 101'
+    2300008: ' 102'
+    2300010: ' 103'
+    2300012: ' 104'
+    2300014: ' 105'
+    2300016: ' 106'
+    2300018: ' 107'
+    2300020: ' 108'
+    2300022: ' 109'
+    2300024: ' 11'
+    2300026: ' 110'
+    2300028: ' 111'
+    2300030: ' 112'
+    2300032: ' 113'
+    2300034: ' 114'
+    2300036: ' 115'
+    2300038: ' 116'
+    2300040: ' 117'
+    2300042: ' 118'
+    2300044: ' 119'
+    2300046: ' 12'
+    2300048: ' 120'
+    2300050: ' 121'
+    2300052: ' 122'
+    2300054: ' 123'
+    2300056: ' 124'
+    2300058: ' 125'
+    2300060: ' 126'
+    2300062: ' 127'
+    2300064: ' 128'
+    2300066: ' 129'
+    2300068: ' 13'
+    2300070: ' 130'
+    2300072: ' 131'
+    2300074: ' 132'
+    2300076: ' 133'
+    2300078: ' 134'
+    2300080: ' 135'
+    2300082: ' 136'
+    2300084: ' 137'
+    2300086: ' 138'
+    2300088: ' 139'
+    2300090: ' 14'
+    2300092: ' 140'
+    2300094: ' 141'
+    2300096: ' 15'
+    2300098: ' 16'
+    2300100: ' 17'
+    2300102: ' 18'
+    2300104: ' 19'
+    2300106: ' 2'
+    2300108: ' 20'
+    2300110: ' 21'
+    2300112: ' 22'
+    2300114: ' 23'
+    2300116: ' 24'
+    2300118: ' 25'
+    2300120: ' 26'
+    2300122: ' 27'
+    2300124: ' 28'
+    2300126: ' 29'
+    2300128: ' 3'
+    2300130: ' 30'
+    2300132: ' 31'
+    2300134: ' 32'
+    2300136: ' 33'
+    2300138: ' 34'
+    2300140: ' 35'
+    2300142: ' 36'
+    2300144: ' 37'
+    2300146: ' 38'
+    2300148: ' 39'
+    2300150: ' 4'
+    2300152: ' 40'
+    2300154: ' 41'
+    2300156: ' 42'
+    2300158: ' 43'
+    2300160: ' 44'
+    2300162: ' 45'
+    2300164: ' 46'
+    2300166: ' 47'
+    2300168: ' 48'
+    2300170: ' 49'
+    2300172: ' 5'
+    2300174: ' 50'
+    2300176: ' 51'
+    2300178: ' 52'
+    2300180: ' 53'
+    2300182: ' 54'
+    2300184: ' 55'
+    2300186: ' 56'
+    2300188: ' 57'
+    2300190: ' 58'
+    2300192: ' 59'
+    2300194: ' 6'
+    2300196: ' 60'
+    2300198: ' 61'
+    2300200: ' 62'
+    2300202: ' 63'
+    2300204: ' 64'
+    2300206: ' 65'
+    2300208: ' 66'
+    2300210: ' 67'
+    2300212: ' 68'
+    2300214: ' 69'
+    2300216: ' 7'
+    2300218: ' 70'
+    2300220: ' 71'
+    2300222: ' 74'
+    2300224: ' 75'
+    2300226: ' 76'
+    2300228: ' 77'
+    2300230: ' 78'
+    2300232: ' 79'
+    2300234: ' 8'
+    2300236: ' 80'
+    2300238: ' 81'
+    2300240: ' 82'
+    2300242: ' 83'
+    2300244: ' 84'
+    2300246: ' 85'
+    2300248: ' 86'
+    2300250: ' 87'
+    2300252: ' 88'
+    2300254: ' 89'
+    2300256: ' 9'
+    2300258: ' 90'
+    2300260: ' 91'
+    2300262: ' 92'
+    2300264: ' 93'
+    2300266: ' 94'
+    2300268: ' 95'
+    2300270: ' 96'
+    2300272: ' 97'
+    2300274: ' 98'
+    2300276: ' 99'
+    3300000: ' 1'
+    3300002: ' 10'
+    3300004: ' 100'
+    3300006: ' 101'
+    3300008: ' 102'
+    3300010: ' 103'
+    3300012: ' 104'
+    3300014: ' 105'
+    3300016: ' 106'
+    3300018: ' 107'
+    3300020: ' 108'
+    3300022: ' 109'
+    3300024: ' 11'
+    3300026: ' 110'
+    3300028: ' 111'
+    3300030: ' 112'
+    3300032: ' 113'
+    3300034: ' 114'
+    3300036: ' 115'
+    3300038: ' 116'
+    3300040: ' 117'
+    3300042: ' 118'
+    3300044: ' 119'
+    3300046: ' 12'
+    3300048: ' 120'
+    3300050: ' 121'
+    3300052: ' 122'
+    3300054: ' 123'
+    3300056: ' 124'
+    3300058: ' 125'
+    3300060: ' 126'
+    3300062: ' 127'
+    3300064: ' 128'
+    3300066: ' 129'
+    3300068: ' 13'
+    3300070: ' 130'
+    3300072: ' 131'
+    3300074: ' 132'
+    3300076: ' 133'
+    3300078: ' 134'
+    3300080: ' 135'
+    3300082: ' 136'
+    3300084: ' 137'
+    3300086: ' 138'
+    3300088: ' 139'
+    3300090: ' 14'
+    3300092: ' 140'
+    3300094: ' 141'
+    3300096: ' 15'
+    3300098: ' 16'
+    3300100: ' 17'
+    3300102: ' 18'
+    3300104: ' 19'
+    3300106: ' 2'
+    3300108: ' 20'
+    3300110: ' 21'
+    3300112: ' 22'
+    3300114: ' 23'
+    3300116: ' 24'
+    3300118: ' 25'
+    3300120: ' 26'
+    3300122: ' 27'
+    3300124: ' 28'
+    3300126: ' 29'
+    3300128: ' 3'
+    3300130: ' 30'
+    3300132: ' 31'
+    3300134: ' 32'
+    3300136: ' 33'
+    3300138: ' 34'
+    3300140: ' 35'
+    3300142: ' 36'
+    3300144: ' 37'
+    3300146: ' 38'
+    3300148: ' 39'
+    3300150: ' 4'
+    3300152: ' 40'
+    3300154: ' 41'
+    3300156: ' 42'
+    3300158: ' 43'
+    3300160: ' 44'
+    3300162: ' 45'
+    3300164: ' 46'
+    3300166: ' 47'
+    3300168: ' 48'
+    3300170: ' 49'
+    3300172: ' 5'
+    3300174: ' 50'
+    3300176: ' 51'
+    3300178: ' 52'
+    3300180: ' 53'
+    3300182: ' 54'
+    3300184: ' 55'
+    3300186: ' 56'
+    3300188: ' 57'
+    3300190: ' 58'
+    3300192: ' 59'
+    3300194: ' 6'
+    3300196: ' 60'
+    3300198: ' 61'
+    3300200: ' 62'
+    3300202: ' 63'
+    3300204: ' 64'
+    3300206: ' 65'
+    3300208: ' 66'
+    3300210: ' 67'
+    3300212: ' 68'
+    3300214: ' 69'
+    3300216: ' 7'
+    3300218: ' 70'
+    3300220: ' 71'
+    3300222: ' 74'
+    3300224: ' 75'
+    3300226: ' 76'
+    3300228: ' 77'
+    3300230: ' 78'
+    3300232: ' 79'
+    3300234: ' 8'
+    3300236: ' 80'
+    3300238: ' 81'
+    3300240: ' 82'
+    3300242: ' 83'
+    3300244: ' 84'
+    3300246: ' 85'
+    3300248: ' 86'
+    3300250: ' 87'
+    3300252: ' 88'
+    3300254: ' 89'
+    3300256: ' 9'
+    3300258: ' 90'
+    3300260: ' 91'
+    3300262: ' 92'
+    3300264: ' 93'
+    3300266: ' 94'
+    3300268: ' 95'
+    3300270: ' 96'
+    3300272: ' 97'
+    3300274: ' 98'
+    3300276: ' 99'
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
