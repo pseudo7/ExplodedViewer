@@ -2,7 +2,10 @@
 View 3D Models in exploded view using gestures
 
 ### Exploded Engine
-![Exploded Cube](GIFs/Exploded-Engine.gif)
+
+<p align="center">
+<img src="GIFs/Exploded-Engine.gif">
+</p>
 
 - Easy to use Scripts
 - Modular Script for indivisual part
@@ -11,6 +14,13 @@ View 3D Models in exploded view using gestures
 - `Press Back` to reset and go to loading scene
 
 ### Exploded Cube
-![Exploded Cube](GIFs/Exploded-Cube.gif)
-### Exploded Compound Lattice
-![Exploded Cube](GIFs/Exploded-Lattice.gif)
+
+<p align="center">
+<img src="GIFs/Exploded-Cube.gif">
+</p>
+
+### Exploded Compound(Molecule) Lattice
+
+<p align="center">
+<img src="GIFs/Exploded-Lattice.gif">
+</p>
